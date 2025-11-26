@@ -1,33 +1,29 @@
-# portfolio-data-analytics
-Collection of projects in the field of data analysis
+**Приветствую! Я — Валерия Резчикова**
 
-Приветствую! Я — Валерия Резчикова
+_Data Analyst / BI Analyst / Data Engineer (Junior)_
 
-Data Analyst / BI Analyst / Data Engineer (Junior)
-
-О себе:
+**О себе:**
 
 Я занимаюсь анализом данных, автоматизацией и построением ETL/ELT-процессов.
 Работала с большими таблицами (миллионы строк), аналитикой в сфере образования и туризма, созданием отчетов, дашбордов и оптимизацией процессов.
 
-В моем стеке:
+**В моем стеке:**
 
-SQL (PostgreSQL, SQLite, MySQL, Greenplum, ClickHouse): витрины данных, оконные функции, партиционирование, написание пользовательских функций
-Python: анаолиз данных с помощью pandas, numpy, парсинг, визуализация
-Airflow: написание DAG, ETL, настройка расписания
-BI: Power BI / Superset
-Диаграммы: UML, BPMN, IDEF
-Аналитика: обработка, очистка данных, отчеты
+- SQL (PostgreSQL, SQLite, MySQL, Greenplum, ClickHouse): витрины данных, оконные функции, партиционирование, написание пользовательских функций
+- Python: анализ данных с помощью pandas, numpy, парсинг, визуализация
+- Airflow: написание DAG, ETL, настройка расписания
+- BI: Power BI / Superset
+- Диаграммы: UML, BPMN, IDEF
+- Аналитика: обработка, очистка данных, отчеты
 
 Ищу возможности развиваться в аналитике и инженерии данных.
 
-Навигация по проектам
+**Навигация по проектам**
 
-Аналитические проекты (Python + SQL)
+**_Аналитические проекты (Python + SQL)_**
 
-EDA образования — education_case/
-Аналитика цен туров — python/tours_price_analysis.ipynb
-SQL-проект с аналитическими запросами — sql/analytical_queries.sql
+- Аналитика цен туров — python/tours_price_analysis.ipynb
+- SQL-проект с аналитическими запросами — sql/analytical_queries.sql
 
 ETL / Data Engineering
 
