@@ -2,7 +2,7 @@
 
 Проекты анализа данных:
 
-- tours_price_analysis.py — анализ цен на туры (очистка данных, визуализация, выводы).
-- parsing_script.py — пример простого парсинга (requests + BeautifulSoup).
+- tours_price_analysis.py — анализ стоимости туров (очистка данных, визуализация, выводы).
+- parsing_script.py — пример простого парсинга поставщиков туров (использование requests + BeautifulSoup, извлечение данных и выгрузка в csv).
 
 Основной стек: pandas, numpy, jupyter
