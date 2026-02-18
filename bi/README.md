@@ -2,5 +2,6 @@
 
 - `SS_dashboard1.jpg` — дашборд с витриной продаж, период янв-фев 2021
 - `SS_dashboard2.jpg` — дашборд с витриной продаж план-факт, период апрель 2021
+- `strlit_web.jpg` — веб-приложение с визуализацией данных на python (фрагмент).
 
-Основной стек: Apache Superset
+Основной стек: Apache Superset, Python (streamlit)
