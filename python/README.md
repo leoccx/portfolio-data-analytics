@@ -4,5 +4,6 @@
 
 - `tours_price_analysis.py` — анализ стоимости туров (очистка данных, визуализация, выводы).
 - `parsing_script.py` — пример простого парсинга поставщиков туров (использование requests + BeautifulSoup, извлечение данных и выгрузка в csv).
+- `strlit_bi.py` — создание веб-приложения для визуализации данных с возможностью выгрузки в форматах csv, xlsx.
 
-Основной стек: pandas, numpy, jupyter
+Основной стек: pandas, numpy, streamlit, jupyter
